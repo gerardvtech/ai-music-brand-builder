@@ -1,16 +1,24 @@
-# ai-music-brand-builder
-Using AI tools to build music brands, automate content, and generate digital products.
 # AI Music Brand Builder
 
-This project documents my journey using AI tools to build music brands, automate content creation, and generate digital products.
+Using AI tools to build music brands, automate content creation, and create digital products.
+
+## About This Project
+
+This repository documents my journey using AI, automation, and creative tools to build real-world digital brands.
+
+My current focus is on:
+- **Angelo Gerard** — Latin house / festival / tech house music brand
+- **MaryLife** — inspirational and lifestyle content brand
+
+This project also supports my transition into tech, AI-assisted workflows, and digital business building.
 
 ## Goals
 
-- Build Latin House brand (Angelo Gerard)
-- Build MaryLife content brand
-- Use AI tools for automation
-- Generate digital products
-- Build online audience
+- Build a recognizable Latin house brand
+- Grow and organize MaryLife content systems
+- Use AI tools for automation and research
+- Create digital products and content assets
+- Learn GitHub and technology workflows
 
 ## Tools
 
@@ -19,30 +27,54 @@ This project documents my journey using AI tools to build music brands, automate
 - Suno AI
 - GitHub
 - Canva
-- Social Media Platforms
+- Social media platforms
 
-## Projects
+## Brand Projects
 
 ### Angelo Gerard
+- Latin house remixes
+- DJ edits
+- brand building
+- merch ideas
+- AI-assisted content creation
 
-- Latin House Remixes
-- DJ Edits
-- Brand Building
-- Merch Ideas
-
-### GeraV Motivate
-
-- Motivational content
-- Short form video
-- Social media growth
+### MaryLife
+- motivational content
+- short-form video
+- social media growth
+- content organization
+- monetization strategies
 
 ## Progress
 
-- [ ] Create GitHub profile
-- [ ] Setup Mac Mini
+- [x] Create GitHub profile
+- [x] Create first repository
+- [ ] Set up Mac Mini
 - [ ] Install OpenClaw
-- [ ] Create first AI-generated content
-- [ ] Launch first brand
+- [ ] Create first AI-assisted workflow
+- [ ] Launch first structured content system
+- [ ] Publish first digital product
+
+## Roadmap
+
+### Phase 1
+- Set up tools and accounts
+- organize project folders
+- document workflows
+
+### Phase 2
+- create content systems
+- test AI automation
+- build digital products
+
+### Phase 3
+- scale audience growth
+- improve monetization
+- expand project documentation
+
+## About Me
+
+I'm a professional with a background in operations, training, and logistics who is transitioning into tech, AI-assisted workflows, and digital brand building.
 
 ## Author
 
