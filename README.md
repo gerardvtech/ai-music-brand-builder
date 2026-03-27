@@ -1,6 +1,7 @@
 # AI Music Brand Builder
-
-Using AI tools to build music brands, automate content creation, and create digital products.
+🚀 Building AI-powered music brands and automation workflows  
+🎧 Latin House | AI Tools | Digital Products  
+🤖 Learning GitHub, OpenClaw, and AI automation
 
 ## About This Project
 
