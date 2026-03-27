@@ -30,7 +30,7 @@ This project documents my journey using AI tools to build music brands, automate
 - Brand Building
 - Merch Ideas
 
-### MaryLife
+### GeraV Motivate
 
 - Motivational content
 - Short form video
